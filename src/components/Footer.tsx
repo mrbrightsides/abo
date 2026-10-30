@@ -82,7 +82,7 @@ export const Footer: React.FC = () => {
           <div className="flex items-center gap-1.5 text-stone-500">
             <span>Dihimpun dengan penuh takzim</span>
             <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500" />
-            <span>untuk Persyarikatan</span>
+            <span>oleh cucunda Akhmad Khudri</span>
           </div>
         </div>
       </div>
